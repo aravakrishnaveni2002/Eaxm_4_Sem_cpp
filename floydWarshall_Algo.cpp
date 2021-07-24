@@ -49,7 +49,7 @@ void floydWarshall(int v,int adj_mat[MAX][MAX]){
 	}
 	
 	
-	for(int k=0;k<v;k++){
+	for(int k=0;k<v-1;k++){
 	
 		for(int i=0;i<v;i++){
 		
