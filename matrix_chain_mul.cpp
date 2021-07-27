@@ -68,7 +68,7 @@ int matrixChainMul(int p[],int n){
 int main(){
 
 	system("clear");
-	freopen("input2.txt","r",stdin);
+	freopen("input_matchain.txt","r",stdin);
 	int n;
 	//cout<<"Enter no of ele"<<endl;
 	
