@@ -65,7 +65,7 @@ int knapsack(int capacity,int w[],int p[],int n){
 int main(){
 
 	system("clear");
-	freopen("input1.txt","r",stdin);
+	freopen("input_knapsack.txt","r",stdin);
 	int capacity;
 	//cout<<"enter the capacity of knapsack:";
 	cin>>capacity;
